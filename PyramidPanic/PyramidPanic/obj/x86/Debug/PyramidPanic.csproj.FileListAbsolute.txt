@@ -1,0 +1,49 @@
+c:\users\nick\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\nick\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.exe
+c:\users\nick\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.pdb
+c:\users\nick\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
+c:\users\nick\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\TitleScherm\Background.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\TitleScherm\Title.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_help.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_leveleditor.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_load.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_quit.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_scores.xnb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\block 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_start.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\TitleScherm\Background.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\TitleScherm\Title.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_help.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_leveleditor.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_load.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_quit.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_scores.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Buttons\Button_start.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Blocks\Wall1.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Blocks\Wall2.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Blocks\Block.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Blocks\Transparant.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\background\Background2.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\levels\0.txt
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\levels\1.txt
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.exe
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.pdb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Scarab.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Treasure1.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Treasure2.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Potion.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Blocks\Door.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Panel\Panel.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Panel\Lives.xnb
+C:\Users\Kayleigh\Desktop\school\pyramidpanic\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\PlaySceneAssets\Fonts\Arial.xnb
