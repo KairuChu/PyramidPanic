@@ -58,6 +58,7 @@
       <Name>Arial</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
+      <SubType>Designer</SubType>
     </Compile>
     <None Include="PlaySceneAssets\levels\0.txt">
       <Name>0</Name>
@@ -172,6 +173,33 @@
   <ItemGroup>
     <Compile Include="PlaySceneAssets\Panel\Panel.png">
       <Name>Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PlaySceneAssets\levels\2.txt">
+      <Name>2</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PlaySceneAssets\Scorpion\Scorpion.png">
+      <Name>Scorpion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PlaySceneAssets\levels\3.txt">
+      <Name>3</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="PlaySceneAssets\Beetle\Beetle.png">
+      <Name>Beetle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

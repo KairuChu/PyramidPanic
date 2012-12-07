@@ -110,15 +110,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimatedSprite\AnimatedSprite.cs" />
+    <Compile Include="GameScenes\PlayScene\Beetle\Beetle.cs" />
+    <Compile Include="GameScenes\PlayScene\Beetle\BeetleManager.cs" />
     <Compile Include="GameScenes\PlayScene\Block\Block.cs" />
     <Compile Include="GameScenes\PlayScene\Level\Level.cs" />
     <Compile Include="Helper\Picture.cs" />
     <Compile Include="GameScenes\StartScene\MenuStartScene.cs" />
     <Compile Include="GameScenes\HelpScene\HelpScene.cs" />
+    <Compile Include="AnimatedSprite\IAnimatedSprite.cs" />
+    <Compile Include="GameScenes\PlayScene\Beetle\IBeetle.cs" />
     <Compile Include="Input.cs" />
     <Compile Include="GameScenes\PlayScene\PlayScene.cs" />
     <Compile Include="GameScenes\LevelEditorScene\LevelEditorScene.cs" />
     <Compile Include="GameScenes\LoadScene\LoadScene.cs" />
+    <Compile Include="GameScenes\PlayScene\Scorpion\IScorpion.cs" />
     <Compile Include="IStateGame.cs" />
     <Compile Include="GameScenes\PlayScene\Panel\Panel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -127,6 +133,12 @@
     <Compile Include="GameScenes\StartScene\StartScene.cs" />
     <Compile Include="GameScenes\ScoreScene\ScoreScene.cs" />
     <Compile Include="GameScenes\QuitScene\QuitScene.cs" />
+    <Compile Include="GameScenes\PlayScene\Scorpion\Scorpion.cs" />
+    <Compile Include="GameScenes\PlayScene\Scorpion\WalkRight.cs" />
+    <Compile Include="GameScenes\PlayScene\Scorpion\WalkLeft.cs" />
+    <Compile Include="GameScenes\PlayScene\Scorpion\ScorpionManager.cs" />
+    <Compile Include="GameScenes\PlayScene\Beetle\WalkDown.cs" />
+    <Compile Include="GameScenes\PlayScene\Beetle\WalkUp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.ico" />
@@ -167,7 +179,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="NewFolder1\" />
+    <Folder Include="AnimatedSpr\" />
+    <Folder Include="Level\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />

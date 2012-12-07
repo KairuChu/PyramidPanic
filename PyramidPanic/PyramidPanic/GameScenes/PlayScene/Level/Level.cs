@@ -26,14 +26,32 @@ namespace PyramidPanic
         private const int GRIDHEIGHT=32;
         private List<Picture> treasures;
         private Panel panel;
+        //private Scorpion scorpion;
+        private List<Scorpion> scorpions;
+        private List<Beetle> beetles;
 
+        //property
+        public List<Beetle> Beetles
+        {
+            get { return this.beetles; }
+        }
+
+        public List<Scorpion> Scorpion
+        {
+            get { return this.scorpions; }
+        }
+
+        public Block[,] Blocks
+        {
+            get { return this.block; }
+        }
 
 
         //constructor
         public Level (PyramidPanic game, int levelIndex)
         {
             this.game = game;
-            this.levelPath = @"Content\PlaySceneAssets\levels\0.txt";
+            this.levelPath = @"Content\PlaySceneAssets\levels\1.txt";
             this.LoadAssets();
 
         }
@@ -41,6 +59,8 @@ namespace PyramidPanic
         {
 
             this.treasures = new List<Picture>();
+            this.scorpions = new List<Scorpion>();
+            this.beetles = new List<Beetle>();
             this.panel = new Panel(this.game, new Vector2(0f, 448f));
             this.lines = new List<string>();
             StreamReader reader = new StreamReader(this.levelPath);
@@ -65,6 +85,8 @@ namespace PyramidPanic
                     this.block[column,row] = LoadBlock(blockElement, column * GRIDWIDTH, row * GRIDHEIGHT);
                 }
             }
+            BeetleManager.Level = this;
+            ScorpionManager.Level = this;
 
 
         }
@@ -92,6 +114,12 @@ namespace PyramidPanic
                         return new Block(this.game, @"Wall2", new Vector2(x, y), BlockCollision.NotPassable, 'w');
                 case 'y':
                         return new Block(this.game, @"Door", new Vector2(x, y), BlockCollision.NotPassable, 'y');
+                case 't':
+                        this.scorpions.Add(new Scorpion(this.game, @"PlaySceneAssets\Scorpion\Scorpion", new Vector2(x, y), 2.0f));
+                        return new Block(this.game, @"Transparant", new Vector2(x, y), BlockCollision.Passable, 't');
+                case 'f':
+                        this.beetles.Add(new Beetle(this.game, @"PlaySceneAssets\Beetle\Beetle", new Vector2(x, y), 2.0f));
+                        return new Block(this.game, @"Transparant", new Vector2(x, y), BlockCollision.Passable, 'f'); 
                 case '@':
                         this.background = new Picture(this.game, @"PlaySceneAssets\background\Background2", new Vector2(x,y));
                         return new Block(this.game, @"Block", new Vector2(x, y), BlockCollision.NotPassable, 'w');
@@ -103,9 +131,20 @@ namespace PyramidPanic
             }
 
         }
+        //update methode
         public void Update(GameTime gameTime)
         {
-
+            {
+                foreach (Scorpion scorpion in this.scorpions)
+                {
+                    scorpion.Update(gameTime);
+                }
+                foreach (Beetle beetle in this.Beetles)
+                {
+                    beetle.Update(gameTime);
+                }
+            }
+            
 
         }
         public void Draw(GameTime gameTime)
@@ -125,6 +164,17 @@ namespace PyramidPanic
             {
                 treasure.Draw(gameTime);
             }
+           // this.scorpion.Draw(gameTime);
+            foreach (Scorpion scorpion in this.scorpions)
+            {
+                scorpion.Draw(gameTime);
+            }
+
+            foreach (Beetle beetle in this.beetles)
+            {
+                beetle.Draw(gameTime);
+            }
+            
 
         }
 

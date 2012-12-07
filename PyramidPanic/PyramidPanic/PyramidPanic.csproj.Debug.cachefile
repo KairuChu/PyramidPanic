@@ -16,8 +16,12 @@ Content\PlaySceneAssets\Treasures\Treasure1.xnb
 Content\PlaySceneAssets\Treasures\Treasure2.xnb
 Content\PlaySceneAssets\Treasures\Potion.xnb
 Content\PlaySceneAssets\Blocks\Door.xnb
-Content\PlaySceneAssets\Panel\Panel.xnb
 Content\PlaySceneAssets\Panel\Lives.xnb
+Content\PlaySceneAssets\Panel\Panel.xnb
+Content\PlaySceneAssets\Scorpion\Scorpion.xnb
+Content\PlaySceneAssets\Beetle\Beetle.xnb
 Content\PlaySceneAssets\Fonts\Arial.xnb
 Content\PlaySceneAssets\levels\0.txt
 Content\PlaySceneAssets\levels\1.txt
+Content\PlaySceneAssets\levels\2.txt
+Content\PlaySceneAssets\levels\3.txt
